@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\unit\capitalShip.cs">
+    <Files>
+      <File FileName="Assets\Script\unit\fighter.cs" Line="250" Column="18" />
+      <File FileName="Assets\Script\unit\unit.cs" Line="187" Column="4" />
+      <File FileName="Assets\Script\projectile\laser.cs" Line="51" Column="4" />
+      <File FileName="Assets\Script\projectile\missile.cs" Line="73" Column="15" />
+      <File FileName="Assets\Script\unit\capitalShip.cs" Line="13" Column="21" />
+      <File FileName="Assets\Script\unit\bomber.cs" Line="18" Column="12" />
+      <File FileName="Assets\Script\gameController.cs" Line="84" Column="1" />
+      <File FileName="Assets\Script\projectile\torpedo.cs" Line="17" Column="13" />
+      <File FileName="Assets\Script\projectile\projectile.cs" Line="28" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

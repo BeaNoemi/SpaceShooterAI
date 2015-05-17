@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\unit\fighter.cs">
+    <Files>
+      <File FileName="Assets\Script\unit\unit.cs" Line="258" Column="10" />
+      <File FileName="Assets\Script\unit\bomber.cs" Line="155" Column="1" />
+      <File FileName="Assets\Script\unit\fighter.cs" Line="191" Column="1" />
+      <File FileName="Assets\Script\unit\capitalShip.cs" Line="61" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
